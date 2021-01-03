@@ -1,4 +1,6 @@
 node_modules/*
 build/
+src/api/config.json
 
 .eslintcache
+.env.local
